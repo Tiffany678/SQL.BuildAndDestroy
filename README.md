@@ -50,7 +50,7 @@ Insert a new record in the **Students** table.
  
 ```
 StudentName,
-Address, 
+Address, A
 City, 
 PostalCode,
 Country
